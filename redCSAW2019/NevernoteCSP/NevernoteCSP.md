@@ -93,13 +93,13 @@ Flag: `flag{go_to_r/ProgrammerHumor_for_a_good_time}`
 
 
 
-[image1]: https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png
-[image2]: /images/image2.png
-[image3]: /images/image3.png
-[image4]: /images/image4.png
-[image5]: /images/image5.png
-[image6]: /images/image6.png
-[image7]: /images/image7.png
-[image8]: /images/image8.png
-[image9]: /images/image9.png
-[image10]: /images/image10.png
+[image1]: https://raw.githubusercontent.com/CYberMouflons/ctf-writeups/master/redCSAW2019/NevernoteCSP/images/image1.png
+[image2]: https://raw.githubusercontent.com/CYberMouflons/ctf-writeups/master/redCSAW2019/NevernoteCSP/images/image2.png
+[image3]: https://raw.githubusercontent.com/CYberMouflons/ctf-writeups/master/redCSAW2019/NevernoteCSP/images/image3.png
+[image4]: https://raw.githubusercontent.com/CYberMouflons/ctf-writeups/master/redCSAW2019/NevernoteCSP/images/image4.png
+[image5]: https://raw.githubusercontent.com/CYberMouflons/ctf-writeups/master/redCSAW2019/NevernoteCSP/images/image5.png
+[image6]: https://raw.githubusercontent.com/CYberMouflons/ctf-writeups/master/redCSAW2019/NevernoteCSP/images/image6.png
+[image7]: https://raw.githubusercontent.com/CYberMouflons/ctf-writeups/master/redCSAW2019/NevernoteCSP/images/image7.png
+[image8]: https://raw.githubusercontent.com/CYberMouflons/ctf-writeups/master/redCSAW2019/NevernoteCSP/images/image8.png
+[image9]: https://raw.githubusercontent.com/CYberMouflons/ctf-writeups/master/redCSAW2019/NevernoteCSP/images/image9.png
+[image10]: https://raw.githubusercontent.com/CYberMouflons/ctf-writeups/master/redCSAW2019/NevernoteCSP/images/image10.png
